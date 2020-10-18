@@ -1,3 +1,4 @@
+gem "jekyll-theme-console"
 theme: jekyll-theme-console
 title: Titre
 description: Desc
