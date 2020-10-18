@@ -1,3 +1,9 @@
+---
+title: /char
+layout: page
+permalink: /char
+---
+
 [DEPEND] Dependency failed for Flush Journal Service to Persistant Storage.
 [  OK  ] Stopped Journal Service
 Booting ‘Cyberpunk_Red’
