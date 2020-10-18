@@ -26,8 +26,7 @@ Cette partie est construit sur le Jumpstart kit et est présentée comme une ave
 Des ressources sont disponibles à l’adresse suivante :
 
 >echo $player_ressources.location
-https://1drv.ms/u/s!At74YwoeDnLKgesBf0cnUZFosWgGpw?e=KDB3sY 
-
+[lien]
 Ces ressources sont distribuées à titre d’aide et leur distribution est interdite (j’ai le droit de les avoir parce que j’ai acheté le jeu).
 Dans le dossier charCreation, vous trouverez les ressources nécessaires pour la conception de votre personnage. La création en soit se fera avec moi en vidéo conférence. Le fichier pregen.pdf contient les templates de personnages. Le dossier charExamples contient des personnages joués dans des streams promotionnels si vous avez besoin d’inspiration.
 Le fichier reference.pdf contient un aide de jeu avec un résumé des règles et des tables.
