@@ -5,6 +5,8 @@ permalink: /
 ---
 
 # Index
+
+
 ```
 >mkfs.ext4 /dev/sda4
 >mount /dev/sda4 /mnt
@@ -14,14 +16,20 @@ permalink: /
 >useradd -m -g users -G wheel,storage,power -s /bin/zsh NEW_PLAYER
 ```
 
+
 -- Description de la partie
 Bonjour *$NEW_PLAYER*.
 Ceci constitut ton invitation à une partie du Cyberpunk Red. Cette partie sera présentée comme une aventure one-shot contenant un maximum de *{$nb_scenario}*
+
+
 ```
 Error nb_scenario has not been initialized. Please define nb_scenario:
 >4
 ```
+
+
 Cette partie sera présentée comme une aventure one-shot contenant un maximum de 4 scénarios courts. Les personnages pourront être changés entre les scénarios et les joueurs pourront être interchangés aussi. L'univers est un futur dystopique où règnent les méga corporations et le crime.
+
 
 Si cette proposition vous intérèsse vous devez:
 *Contacter le GM(moi lol) pour qu'il vous ajoute au Discord.
