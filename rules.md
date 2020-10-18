@@ -1,3 +1,9 @@
+---
+title: /rules
+layout: page
+permalink: /rules
+---
+
 :: Retrieving packages...
 cyberpunk_red-0.1.0.7-3-x86_64      40.6 MiB [--------------c o o o o o o o o o o o ] 30%
 cyberpunk_red-0.1.0.7-3-x86_64      91.9 MiB [----------------------------c o o o o ] 70%
