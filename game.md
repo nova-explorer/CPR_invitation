@@ -1,3 +1,9 @@
+---
+title: /game
+layout: page
+permalink: /game
+---
+
 >mkfs.ext4 /dev/sda4
 >mount /dev/sda4 /mnt
 >pacstrap /mnt base base-devel zsh efibootmgr
