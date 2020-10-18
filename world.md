@@ -1,3 +1,9 @@
+---
+title: /world
+layout: page
+permalink: /world
+---
+
 >reboot
 [  OK  ] Reached target Encrypted Volumes.
 [  OK  ] Listening on Process Core Dump Socket.
