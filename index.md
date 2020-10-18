@@ -4,7 +4,27 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Index
 
-Prout
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>mkfs.ext4 /dev/sda4
+>mount /dev/sda4 /mnt
+>pacstrap /mnt base base-devel zsh efibootmgr
+>genfstab -pU /mnt >> /mnt/etc/fstab
+>chroot /mnt /bin/bash
+>useradd -m -g users -G wheel,storage,power -s /bin/zsh NEW_PLAYER
+
+-- Description de la partie
+Bonjour $NEW_PLAYER.
+Ceci constitut ton invitation à une partie du Cyberpunk Red. Cette partie sera présentée comme une aventure one-shot contenant un maximum de {$nb_scenario}
+
+Error nb_scenario has not been initialized. Please define nb_scenario:
+>4
+
+Cette partie sera présentée comme une aventure one-shot contenant un maximum de 4 scénarios courts. Les personnages pourront être changés entre les scénarios et les joueurs pourront être interchangés aussi. L'univers est un futur dystopique où règnent les méga corporations et le crime.
+
+Si cette proposition vous intérèsse vous devez:
+- Contacter le GM(moi lol) pour qu'il vous ajoute au Discord.
+- Contacter le GM pour fixer un rendez-vous pour la création de votre personnage.
+- Idéalement lire les sections /game, /world et /rules dans le haut du site
+- Avant la création de votre personnage, lire soit la section /char ou les templates de personages (seront disponibles sur le Discord)
+- Si vous avez du temps, le rulebook et le worldbook seront aussi disponibles sur le Discord
