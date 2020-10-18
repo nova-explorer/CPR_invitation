@@ -1,23 +1,16 @@
-# Example Site settings
 
-#google_analytics: UA-NNNNNNNN-N
+title: 'nova-explorer.github.io'
+description: "Invitation to Cyberpunk Red."
+# baseurl: "/jekyll-theme-console-demo-hacker"
+url: "https://nova-explorer.github.io"
 
-#header_pages:
-#  - index.md
-#  - about.md
-
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
-
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
-
-#plugins:
-#  - jekyll-seo-tag
-remote_theme: b2a3e8/jekyll-theme-console
-style: hacker
 header_pages:
   - index.md
   - game.md
   - world.md
   - char.md
   - rules.md
+
+style: hacker
+remote_theme: b2a3e8/jekyll-theme-console
+
