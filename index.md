@@ -5,13 +5,14 @@ permalink: /
 ---
 
 # Index
-
+```
 >mkfs.ext4 /dev/sda4
 >mount /dev/sda4 /mnt
 >pacstrap /mnt base base-devel zsh efibootmgr
 >genfstab -pU /mnt >> /mnt/etc/fstab
 >chroot /mnt /bin/bash
 >useradd -m -g users -G wheel,storage,power -s /bin/zsh NEW_PLAYER
+```
 
 -- Description de la partie
 Bonjour $NEW_PLAYER.
