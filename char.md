@@ -47,7 +47,9 @@ Nous allons commencer cette section par une description des différentes statist
 La plupart de vos actions ne se feront pas à travers les STAT mais à travers des compétences spécifiques à votre personnage. Une liste exhaustive des compétences disponibles dans le Jumpstart kit est disponible dans le Rulebook.pdf, mais d’autres compétences pourraient être ajoutées sous demande des joueurs. Les compétences sont définies selon le rôle (classe) de votre personnage.
 <br />
 <br />
+<br />
 Une très brève description des rôles est faite plus bas. Pour plus de détails, veuillez consulter pregens.pdf.
+<br />
 <br />
 -	Rockerboy : Les musiciens de l’Âge Rouge ont un travail légèrement différent de ceux des années 80s. La musique est un outil de rébellion et les grandes révolutions de l’histoire de Cyberpunk Red sont nées à travers des Rockerboys comme Johnny Silverhand. Ce n’est pas de tout repos par contre, les Corps aimeraient mieux que vous la fermiez sur plusieurs points et vous devrez savoir vous défendre et diffuser votre œuvre par des moyens pas nécessairement légaux afin de défier l’autorité en place. Après tout, si ce n’est pas vous, qui d’autre?
 -	Fixer : Les Fixers sont les dealers du nouveau monde. Par contre, les services que vous pouvez procurer sont loin d’être seulement des drogues synthétiques. Tout le monde dans Night City a au moins un problème et ceux qui ont de l’argent payent un Fixer pour les régler. Vous avez rapidement compris que vous étiez particulièrement talentueux à lire les autres personnes et à comprendre ce qu’ils veulent.
