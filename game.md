@@ -18,8 +18,12 @@ L'ambiance cyberpunk est importante à la réussite de la partie et à cet effet
 Ces ressources sont distribuées à titre d’aide et leur distribution est interdite (j’ai le droit de les avoir parce que j’ai acheté le jeu).
 <br />
 Dans le dossier charCreation, vous trouverez les ressources nécessaires pour la conception de votre personnage. La création en soit se fera avec moi en vidéo conférence. Le fichier pregen.pdf contient les templates de personnages. Le dossier charExamples contient des personnages joués dans des streams promotionnels si vous avez besoin d’inspiration.
+<br />
 Le fichier reference.pdf contient un aide de jeu avec un résumé des règles et des tables.
+<br />
 Le fichier rulebook.pdf contient l’ensemble des règles décrite dans le Jumpstart kit. Les règles importantes pour les joueurs seront résumées avant la première partie et un peu plus bas.
+<br />
 Le fichier worldbook.pdf contient l’ensemble de la description de l’univers tel que décrit dans le Jumpstart kit. La section contenant la description des scénarios a été enlevée de ce document. Les parties du lore nécessaires au scénario seront mentionnées en cours de partie. La section Description de l’univers sert aussi principalement à vous mettre dans l’ambiance.
+<br />
 Les joueurs sont encouragés à consultés rulebook.pdf et worldbook.pdf avant la première partie mais ce n’est pas nécessaire.
 
