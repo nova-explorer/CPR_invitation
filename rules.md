@@ -25,6 +25,7 @@ Welcome to Cyberpunk Red $NEW_PLAYER!
 ```
 <br />
 # Description des règles
+<br />
 Les grandes règles seront résumées ici. Rapide rappel que les règles sont une sorte d’entente entre les joueurs et le Game Master afin que tout le monde travaille sur la même base mais qu’ultimement les règles sont définies par moi et moi uniquement. Le but d’un jeu de rôle est essentiellement de s’amuser et de vivre une aventure qui est mise en scène par le Game Master.
 <br />
 Les tests de compétences se font contre un DV (Difficulty Value). Si le résultat du test est plus grand que le DV, l’action réussit. Le DV est déterminé soit par le test du personnage défendant si l’action est faite contre une personne, soit par une valeur prédéterminée si l’action est faite contre un objet inanimé. Les DV prédéterminés sont compris généralement entre 10 et 30, correspondant pour la difficulté à une action très facile (niveau enfant) à légendaire (une fois par génération). Des malus ou bonus situationnels peuvent s’ajouter aussi. *La suite est gérée par Roll20* Pour faire un jet, on roule un dé 10 et on y additionne le modificateur de compétence et de STAT. Si le dé tombe sur 10, c’est une réussite critique et un autre d10 est roulé et additionné au résultat. Si le dé tombe sur 1, c’est un échec critique et un autre d10 est roulé et soustrait au résultat.
