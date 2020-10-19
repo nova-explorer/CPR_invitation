@@ -26,7 +26,7 @@ Error nb_scenario has not been initialized. Please define nb_scenario:
 <br />
 Cette partie sera présentée comme une aventure one-shot contenant un maximum de 4 scénarios courts. Les personnages pourront être changés entre les scénarios et les joueurs pourront être interchangés aussi. L'univers est un futur dystopique où règnent les méga corporations et le crime.
 <br />
-## Si cette proposition vous intérèsse vous devez:
+## Si cette proposition vous intéresse vous devez:
 - Contacter le GM(moi lol) pour qu'il vous ajoute au Discord.
 - Contacter le GM pour fixer un rendez-vous pour la création de votre personnage.
 - Idéalement lire les sections /game, /world et /rules dans le haut du site
