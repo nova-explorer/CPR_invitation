@@ -47,7 +47,7 @@ Nous allons commencer cette section par une description des différentes statist
 <br />
 La plupart de vos actions ne se feront pas à travers les STAT mais à travers des compétences spécifiques à votre personnage. Une liste exhaustive des compétences disponibles dans le Jumpstart kit est disponible dans le Rulebook.pdf, mais d’autres compétences pourraient être ajoutées sous demande des joueurs. Les compétences sont définies selon le rôle (classe) de votre personnage.
 <br />
-----------------------------------------------------------------------------------------------------------------------
+<br />
 <br />
 Une très brève description des rôles est faite plus bas. Pour plus de détails, veuillez consulter pregens.pdf.
 <br />
