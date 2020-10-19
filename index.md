@@ -17,7 +17,7 @@ permalink: /
 <br />
 -- Description de la partie
 Bonjour **$NEW_PLAYER**.
-Ceci constitut ton invitation à une partie du Cyberpunk Red. Cette partie sera présentée comme une aventure one-shot contenant un maximum de **{$nb_scenario}**
+Ceci constitut ton invitation à une partie du jeu de rôle Cyberpunk Red. Cette partie sera présentée comme une aventure one-shot contenant un maximum de **{$nb_scenario}**
 <br />
 ```
 Error nb_scenario has not been initialized. Please define nb_scenario:
