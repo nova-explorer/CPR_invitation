@@ -24,7 +24,7 @@ Error nb_scenario has not been initialized. Please define nb_scenario:
 >4
 ```
 <br />
-Cette partie sera présentée comme une aventure one-shot contenant un maximum de 4 scénarios courts. Les personnages pourront être changés entre les scénarios et les joueurs pourront être interchangés aussi. L'univers est un futur dystopique où règnent les méga corporations et le crime.
+Cette partie sera présentée comme une aventure one-shot contenant un maximum de 4 scénarios courts de 3 à 5 joueurs. Les personnages pourront être changés entre les scénarios et les joueurs pourront être interchangés aussi. L'univers est un futur dystopique où règnent les méga corporations et le crime.
 <br />
 ## Si cette proposition vous intéresse vous devez:
 - Contacter le GM(moi lol) pour qu'il vous ajoute au Discord.
