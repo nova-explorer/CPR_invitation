@@ -5,13 +5,13 @@ permalink: /rules
 ---
 ```
 :: Retrieving packages...
-cyberpunk_red-0.1.0.7-3-x86_64      40.6 MiB [--------------c o o o o o o o o o o o ] 30%
-cyberpunk_red-0.1.0.7-3-x86_64      91.9 MiB [----------------------------c o o o o ] 70%
-cyberpunk_red-0.1.0.7-3-x86_64     133.7 MiB [--------------------------------------] 100%
-(1/1) checking keys in keyring               [--------------------------------------] 100% 
-(1/1) checking package integrity             [--------------------------------------] 100% 
-(1/1) loading package files                  [--------------------------------------] 100%
-(1/1) upgrading cyberpunk_red                [--------------------------------------] 100%
+cyberpunk_red-0.1.0.7-3-x86_64      40.6 MiB [----------c o o o o o o o o o o o ] 30%
+cyberpunk_red-0.1.0.7-3-x86_64      91.9 MiB [------------------------c o o o o ] 70%
+cyberpunk_red-0.1.0.7-3-x86_64     133.7 MiB [----------------------------------] 100%
+(1/1) checking keys in keyring               [----------------------------------] 100% 
+(1/1) checking package integrity             [----------------------------------] 100% 
+(1/1) loading package files                  [----------------------------------] 100%
+(1/1) upgrading cyberpunk_red                [----------------------------------] 100%
 :: Searching databases for updates...
 >ssh-keygen -t rsa -b 4096
 Generating public/private rsa key pair.
