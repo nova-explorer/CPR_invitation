@@ -42,12 +42,10 @@ Au début du round, un test d’initiative est fait pour déterminer l’ordre d
 -	Tout autre action que vous pouvez imaginer
 <br />
 <br />
-
+<br />
 Les combats sont gérés par les règles Thursday Night Throwdown (TNTD). Cette section fait référence à plusieurs tables Ez_Reference.pdf. Si vous attaquez à distance (fusil), votre Marksmanship est comparé au DV de l’adversaire. Si REF sont de 10, le défendant peut faire un test d’évasion. Sinon le DV est déterminé selon l’arme et la distance de tir. Vous pouvez viser la tête pour un malus de 6 et doubler les dommages qui passent à travers l’armure. Le armes automatiques peuvent tirer en rafale. Chaque points de votre test de tir de plus que le DV vous donne une balle de plus dans la rafale pour un maximum de 3. La table de DV est différente. Vous pouvez faire un tir de couverture afin de forcer vos ennemis à se couvrir s’ils ne réussissent pas un test de Concentration. Les dégâts que vous infligez à un ennemis sont soustrais à leur valeur de Stopping Power (SP). Pour chaque attaque qui perce votre armure (vous inflige des dégâts), le SP de cette pièce d’armure diminue de 1. Si vous êtes à portée de 3 mètres d’un ennemi, vous pouvez attaquer avec une arme de mêlée. Votre Attaque de Mêlée est comparée à l’Évasion de l’ennemi. Deux attaques peuvent aussi être fait dans le même tour. Les attaques de mêlées ignorent la moitié de l’armure. Vous pouvez aussi attaquer avec vos points et alors vous comparez Brawling à Évasion. Si la cible a une armure, vos attaques seront nullifiées (0). Vos dégâts sont déterminés selon votre BODY.
 <br />
-<br />
 Votre nombre de points de vie est déterminé comme 5*BODY. Lorsque vous vous tombez à la moitié de votre vie, vous recevez un malus de -3 à tous vos tests. Si vous tombez sous 1PV, vous aurez un malus de -5, sauf pour les tests de sauvegarde de mort. À chaque début de tour où vous êtes mortellement blessés, vous devrez faire un test de sauvegarde de mort. Vous roulez un d10 et si le résultat est sous BODY, vous vivez et continuez votre tour. Chaque sauvegarde de mort subséquente aura un malus de 1. Un personnage mortellement blessé qui est soigné remonte ses PV à 1.
-<br />
 <br />
 La réputation est un test spécial qui est lié à l’ampleur de vos actions et de votre légende. Avec une bonne réputation (lire street cred) une personnage, même s’il n’a pas un bon charisme peut influencer son entourage. Tous les personnages commencent à 1 de réputation, l’équivalent de : Les gens ayant fait de votre passé savent qui vous êtes. La réputation peut tomber dans les négatifs si votre personnage fait preuve de lâcheté
 <br />
